@@ -55,6 +55,7 @@ def update_image1():
     if shape1_name != None:
         dirname = os.path.dirname(__file__)
         file_path_1 = dirname + fr'\images\{shape1_name}.png'
+
         shape1_img = Image.open(file_path_1)
         shape1_img = shape1_img.resize((300, 300))
         shape1_img = ImageTk.PhotoImage(shape1_img)
