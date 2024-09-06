@@ -1,0 +1,18 @@
+tetrahedron:1000
+cube:1000
+octahedron:1000
+dodecahedron:1000
+icosahedron:1000
+truncated tetrahedron:1000
+cuboctahedron:1000
+truncated cube:1000
+truncated octahedron:1000
+rhombicuboctahedron:1000
+truncated cuboctahedron:1000
+snub cube:1000
+icosidodecahedron:1000
+truncated dodecahedron:1000
+truncated icosahedron:1000
+rhombicosidodecahedron:1000
+truncated icosidodecahedron:1000
+snub dodecahedron:1000
